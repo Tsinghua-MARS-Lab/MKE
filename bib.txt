@@ -1,6 +1,8 @@
-@article{xue2021multimodal,
-  title={Multimodal Knowledge Expansion},
-  author={Xue, Zihui and Ren, Sucheng and Gao, Zhengqi and Zhao, Hang},
-  journal={arXiv preprint arXiv:2103.14431},
-  year={2021}
+@InProceedings{Xue_2021_ICCV,
+    author    = {Xue, Zihui and Ren, Sucheng and Gao, Zhengqi and Zhao, Hang},
+    title     = {Multimodal Knowledge Expansion},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {854-863}
 }
